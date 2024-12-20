@@ -1,6 +1,6 @@
 # Microsserviços com Spring Cloud
 
-Microsserviços com Spring Cloud é um projeto acadêmico onde os participantes aprendem os fundamentos e a implementação de microserviços resilientes e escaláveis utilizando as ferramentas Spring Cloud, Docker e Kubernetes.
+Microsserviços com Spring Cloud é um projeto da Rocketseat aonde aprendemos a implementação de microserviços resilientes e escaláveis utilizando as ferramentas Spring Cloud, Docker e Kubernetes.
 
 ## 🛠️ Construído com
 
